@@ -1,5 +1,8 @@
 # Islandora Mirador
 
+## Archived
+This repository is archived as of September 2020.
+
 ## Introduction
 
 This module implements [Mirador](https://github.com/IIIF/mirador) open source [IIIF](http://iiif.io/) image viewer for Islandora Book and Large Image objects and provides functionality to generate IIIF Manifests and ingest them into our [IIIF API](https://github.com/utlib/utl_iiif_api) server.
